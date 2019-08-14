@@ -1,3 +1,7 @@
 #header {
   background: url("img/header.jpg") no-repeat center center/cover;
 }
+
+#gallery .card img {
+  height: 350px;
+}
